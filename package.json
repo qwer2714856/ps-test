@@ -1,6 +1,6 @@
 {
   "name": "cc",
-  "version": "0.0.1-development",
+  "version": "0.0.0-development",
   "description": "A Vue.js project",
   "author": "luchao.ding <116710782@qq.com>",
   "private": false,
@@ -39,7 +39,7 @@
     "postcss-loader": "^2.0.8",
     "postcss-url": "^7.2.1",
     "rimraf": "^2.6.0",
-    "semantic-release": "^15.13.18",
+    "semantic-release": "^15.13.19",
     "semver": "^5.3.0",
     "shelljs": "^0.7.6",
     "uglifyjs-webpack-plugin": "^1.1.1",
