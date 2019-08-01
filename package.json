@@ -3,7 +3,6 @@
   "version": "0.0.0-development",
   "description": "A Vue.js project",
   "author": "luchao.ding <116710782@qq.com>",
-  "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
